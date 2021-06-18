@@ -1,0 +1,46 @@
+/* 
+
+The one style sheet for Quotations 1
+
+Authors: Rick Mercer and Ethan Winkler
+
+*/
+.container {
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 10pt;	
+}
+
+.addQ {
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 10pt;
+}
+
+.reg {
+	vertical-align: text-top;
+	border: 1px black solid;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 7px;
+	padding: 10px;
+	margin: 5px;
+	font-size: 10pt;
+	width: 180px;
+}
+
+.log {
+	vertical-align: text-top;
+	border: 1px black solid;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 7px;
+	padding: 10px;
+	margin: 5px;
+	font-size: 10pt;
+	width: 180px;
+}
